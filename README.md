@@ -188,5 +188,15 @@ Female
 United-States
 <=50K
 
-
+ 1. Data Collection and Preparation
+ 2. Feature Selection
+ 3. Data Split
+ 4. Decision Tree Model Building
+ 5. Hyperparameter Tuning
+ 6. Model Evaluation
+ 7. Visualization
+ 8. Prediction
+ 9. Integration into Decision-Making
+ 10. Monitoring and Updating
+ 11. Interpretability 
 
